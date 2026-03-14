@@ -22,7 +22,7 @@ When I'm not coding, you'll find me leading **CodeCollab**, mentoring student de
 
 ### 🔥 What I'm Up To
 
-- 🏗️ **Building** FinanceHive — an AI-powered iOS finance app heading to the App Store
+- 🏗️ **Building** An AI-powered iOS finance app heading to the App Store
 - 🔬 **Researching** hybrid Solar PV & thermoelectric systems for data center energy recovery @ iCons
 - 🤖 **Training** multimodal AI systems as an AI Training Fellow @ Handshake
 - 🎯 **Leading** 40+ members as Project Lead & Treasurer of UMass CodeCollab
@@ -38,7 +38,6 @@ When I'm not coding, you'll find me leading **CodeCollab**, mentoring student de
 | Gen AI Engineer Intern | **Reality AI Labs** | Built production LLM apps (Marvel AI, Sky AI), RAG pipelines, 92% retrieval accuracy |
 | AI Engineering Intern | **Reality AI Labs** | GPT-4 integration, fraud detection, ML pipelines, 22% noise reduction |
 | Research Fellow | **iCons @ UMass** | ML for energy demand prediction, wind energy sentiment analysis, solar PV systems |
-| Founder | **FinanceHive** | AI-powered iOS finance app, OpenAI + Yahoo Finance APIs, heading to App Store |
 
 ---
 
@@ -102,21 +101,10 @@ When I'm not coding, you'll find me leading **CodeCollab**, mentoring student de
 - 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saipulavarthy&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saipulavarthy&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ### 🎯 What's Next
 
-- 🚀 Launching FinanceHive on the App Store
+- 🚀 Launching AI-powered iOS finance app on the App Store
 - 🔐 Diving deeper into cybersecurity and systems engineering
 - 🎓 Graduating May 2027 — open to opportunities in AI/ML, fintech, cybersecurity, and aerospace
 

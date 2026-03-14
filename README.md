@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a junior studying **Computer Engineering** with a **Business minor** at UMass Amherst. I love building things that sit at the intersection of **AI, software, and real-world impact**. Whether it's shipping production LLM apps, predicting electricity demand with ML, or building a fintech startup from scratch — I'm always working on something.
 
@@ -20,7 +20,7 @@ When I'm not coding, you'll find me leading **CodeCollab**, mentoring student de
 
 ---
 
-### 🔥 What I'm Up To
+### What I'm Up To
 
 - 🏗️ **Building** An AI-powered iOS finance app heading to the App Store
 - 🔬 **Researching** hybrid Solar PV & thermoelectric systems for data center energy recovery @ iCons
@@ -30,7 +30,7 @@ When I'm not coding, you'll find me leading **CodeCollab**, mentoring student de
 
 ---
 
-### 💼 Experience
+### Experience
 
 | Role | Where | What I Did |
 |------|-------|------------|
@@ -102,7 +102,7 @@ When I'm not coding, you'll find me leading **CodeCollab**, mentoring student de
 ---
 
 
-### 🎯 What's Next
+### What's Next
 
 - 🚀 Launching AI-powered iOS finance app on the App Store
 - 🔐 Diving deeper into cybersecurity and systems engineering

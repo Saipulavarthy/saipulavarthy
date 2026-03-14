@@ -16,7 +16,7 @@
 
 I'm a 3rd year undergraduate studying **Computer Engineering** with a **Business minor** at UMass Amherst. I love building things that sit at the intersection of **AI, software, and real-world impact**. Whether it's shipping production LLM apps, predicting electricity demand with ML, or building a fintech startup from scratch — I'm always working on something.
 
-When I'm not coding, you'll probably find me on the tennis court, experimenting in the kitchen, binging movies, or 3D modeling something that may or may not be useful. Honestly, it's a coin flip.
+When I'm not coding, you'll probably find me on the tennis court, experimenting in the kitchen, binging movies, watching sports, or 3D modeling something that may or may not be useful. Honestly, it's a coin flip.
 
 ---
 

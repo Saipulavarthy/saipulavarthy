@@ -93,6 +93,7 @@ When I'm not coding, you'll find me leading **CodeCollab**, mentoring student de
 
 ### 🏆 Cool Stuff
 
+- **AWS Educate** — Member with access to cloud computing courses and labs
 - **NVIDIA 6G Developer Program** — Member with access to next-gen wireless research tools
 - **HackHer 2026** — Co-built Coverly, an AI-powered team coverage platform
 - **NASA Moon Pod Essay** — Semifinalist (top 155 out of 14,000 nationwide)

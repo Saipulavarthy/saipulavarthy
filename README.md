@@ -4,7 +4,7 @@
 
 **Computer Engineering @ UMass Amherst | Builder | AI Enthusiast | Founder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sai-pulavarthy-a69769243/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spulavarthy@umass.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saipulavarthy)
 
@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm a junior studying **Computer Engineering** with a **Business minor** at UMass Amherst. I love building things that sit at the intersection of **AI, software, and real-world impact**. Whether it's shipping production LLM apps, predicting electricity demand with ML, or building a fintech startup from scratch — I'm always working on something.
+I'm a 3rd year undergraduate studying **Computer Engineering** with a **Business minor** at UMass Amherst. I love building things that sit at the intersection of **AI, software, and real-world impact**. Whether it's shipping production LLM apps, predicting electricity demand with ML, or building a fintech startup from scratch — I'm always working on something.
 
 When I'm not coding, you'll find me leading **CodeCollab**, mentoring student dev teams, or figuring out how to make AI do something it probably shouldn't be able to do yet.
 

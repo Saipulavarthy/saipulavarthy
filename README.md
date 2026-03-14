@@ -34,11 +34,11 @@ When I'm not coding, you'll find me leading **CodeCollab**, mentoring student de
 
 | Role | Where | What I Did |
 |------|-------|------------|
-| 🤖 AI Training Fellow | **Handshake** | Training & evaluating multimodal AI systems, RLHF, preference ranking |
-| 🚀 Gen AI Engineer Intern | **Reality AI Labs** | Built production LLM apps (Marvel AI, Sky AI), RAG pipelines, 92% retrieval accuracy |
-| 🧪 AI Engineering Intern | **Reality AI Labs** | GPT-4 integration, fraud detection, ML pipelines, 22% noise reduction |
-| 🔬 Research Fellow | **iCons @ UMass** | ML for energy demand prediction, wind energy sentiment analysis, solar PV systems |
-| 📱 Founder | **FinanceHive** | AI-powered iOS finance app, OpenAI + Yahoo Finance APIs, heading to App Store |
+| AI Training Fellow | **Handshake** | Training & evaluating multimodal AI systems, RLHF, preference ranking |
+| Gen AI Engineer Intern | **Reality AI Labs** | Built production LLM apps (Marvel AI, Sky AI), RAG pipelines, 92% retrieval accuracy |
+| AI Engineering Intern | **Reality AI Labs** | GPT-4 integration, fraud detection, ML pipelines, 22% noise reduction |
+| Research Fellow | **iCons @ UMass** | ML for energy demand prediction, wind energy sentiment analysis, solar PV systems |
+| Founder | **FinanceHive** | AI-powered iOS finance app, OpenAI + Yahoo Finance APIs, heading to App Store |
 
 ---
 

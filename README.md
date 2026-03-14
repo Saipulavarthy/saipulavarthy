@@ -22,11 +22,11 @@ When I'm not coding, you'll probably find me on the tennis court, experimenting 
 
 ### What I'm Up To
 
-- 🏗️ **Building** An AI-powered iOS finance app heading to the App Store
-- 🔬 **Researching** hybrid Solar PV & thermoelectric systems for data center energy recovery @ iCons
-- 🤖 **Training** multimodal AI systems as an AI Training Fellow @ Handshake
-- 🎯 **Leading** 40+ members as Project Lead & Treasurer of UMass CodeCollab
-- 🛡️ **Exploring** cybersecurity, fintech, and systems engineering
+- **Building** An AI-powered iOS finance app heading to the App Store
+- **Researching** hybrid Solar PV & thermoelectric systems for data center energy recovery @ iCons
+- **Training** multimodal AI systems as an AI Training Fellow @ Handshake
+- **Leading** 40+ members as Project Lead & Treasurer of UMass CodeCollab
+- **Exploring** cybersecurity, fintech, and systems engineering
 
 ---
 

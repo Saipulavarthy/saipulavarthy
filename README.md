@@ -93,20 +93,20 @@ When I'm not coding, you'll find me leading **CodeCollab**, mentoring student de
 
 ### 🏆 Cool Stuff
 
-- 🏗️ **HackHer 2026** — Co-built Coverly, an AI-powered team coverage platform
-- 📡 **NVIDIA 6G Developer Program** — Member with access to next-gen wireless research tools
-- 🌙 **NASA Moon Pod Essay** — Semifinalist (top 155 out of 14,000 nationwide)
-- 🔴 **NASA Space Apps Challenge** — Designed Mars habitat tools using Onshape CAD
-- 🔭 **NASA Micro-Observatory** — Processed telescopic images of Eta Carinae using JS9-4L
+- **NVIDIA 6G Developer Program** — Member with access to next-gen wireless research tools
+- **HackHer 2026** — Co-built Coverly, an AI-powered team coverage platform
+- **NASA Moon Pod Essay** — Semifinalist (top 155 out of 14,000 nationwide)
+- **NASA Space Apps Challenge** — Designed Mars habitat tools using Onshape CAD
+- **NASA Micro-Observatory** — Processed telescopic images of Eta Carinae using JS9-4L
 - 
 ---
 
 
 ### What's Next
 
-- 🚀 Launching AI-powered iOS finance app on the App Store
-- 🔐 Diving deeper into cybersecurity and systems engineering
-- 🎓 Graduating May 2027 — open to opportunities in AI/ML, fintech, cybersecurity, and aerospace
+- Launching AI-powered iOS finance app on the App Store
+- Diving deeper into cybersecurity and systems engineering
+- Graduating May 2027 — open to opportunities in AI/ML, fintech, cybersecurity, and aerospace
 
 ---
 

@@ -38,6 +38,7 @@ When I'm not coding, you'll probably find me on the tennis court, experimenting 
 | Gen AI Engineer Intern | **Reality AI Labs** | Built production LLM apps (Marvel AI, Sky AI), RAG pipelines, 92% retrieval accuracy |
 | AI Engineering Intern | **Reality AI Labs** | GPT-4 integration, fraud detection, ML pipelines, 22% noise reduction |
 | Research Fellow | **iCons @ UMass** | ML for energy demand prediction, wind energy sentiment analysis, solar PV systems |
+| Project Lead & Co-Director | **UMass CodeCollab** | Leading 40+ members, overseeing club finances, mentoring dev teams, organizing UMass's first FinTech hackathon |
 
 ---
 

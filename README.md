@@ -26,7 +26,7 @@ When I'm not coding, you'll probably find me on the tennis court, experimenting 
 - **Researching** hybrid Solar PV & thermoelectric systems for data center energy recovery @ iCons
 - **Training** multimodal AI systems as an AI Training Fellow @ Handshake
 - **Leading** 40+ members as Project Lead & Treasurer of UMass CodeCollab
-- **Exploring** cybersecurity, fintech, and systems engineering
+- **Exploring** cybersecurity, fintech, systems engineering, aerospace
 
 ---
 

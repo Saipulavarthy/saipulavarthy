@@ -100,7 +100,6 @@ When I'm not coding, you'll probably find me on the tennis court, experimenting 
 - **NASA Moon Pod Essay** — Semifinalist (top 155 out of 14,000 nationwide)
 - **NASA Space Apps Challenge** — Designed Mars habitat tools using Onshape CAD
 - **NASA Micro-Observatory** — Processed telescopic images of Eta Carinae using JS9-4L
-- 
 ---
 
 
